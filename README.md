@@ -3,6 +3,8 @@ Project: Build a Social media Platform
 create a social media platform where users can sign up, log in, post status updates, like post and comment.
 
 core features to implement
+
+
 1, User Authentication:
 -Register
 - Login/logout
