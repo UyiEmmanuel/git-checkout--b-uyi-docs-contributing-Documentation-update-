@@ -7,10 +7,17 @@ core features to implement
 -Register
 - Login/logout
 - Session handling
+
+
 2, User Profile:
 -view profile
 -edit profile
+
+
 3, Posting Systerm
 -add new post
 -list post in reverse chronological order
+
+
+
 4, Likes & Comments
